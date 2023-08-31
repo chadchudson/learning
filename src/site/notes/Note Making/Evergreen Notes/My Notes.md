@@ -28,6 +28,7 @@ What kinds of topics, you may be wondering, or perhaps not, but I’m going to t
 - [[What I’m Currently Reading or Learning\|What I’m Currently Reading or Learning]]
 - [[Thinking\|Thinking]]
 - [[Note Making/Evergreen Notes/Writing\|Writing]]
+- [[Note Making/Evergreen Notes/What I Am Reading\|What I Am Reading]]
 - and, I’m sure much more.
 
 You can explore all the links, much like Wikipedia. If a link is darker, it exists. If it is lighter, I haven’t created a note on that topic, but it is acts as a placeholder for future thoughts and learning. 
