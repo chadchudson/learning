@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/resources/readwise/podcasts/generative-ai-in-video-and-the-future-of-storytelling/","tags":["podcasts","til"],"created":"","updated":""}
 ---
 
-# Generative AI in Video and the Future of Storytelling
 
 ![rw-book-cover](https://wsrv.nl/?url=https%3A%2F%2Fimages.transistor.fm%2Ffile%2Ftransistor%2Fimages%2Fshow%2F40665%2Ffull_1691429682-artwork.jpg&w=100&h=100)
 
