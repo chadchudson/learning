@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/church/notes-from-service/2023-09-03-acts-global-missions/","tags":["church/acts","church/globalMissions","church/jasonAllen","church/notesFromService","til"],"created":"","updated":""}
 ---
 
-###### Pastor:: [[PRM/Jason Allen\|Jason Allen]]
+##### Pastor:: [[PRM/Jason Allen\|Jason Allen]]
 
 ##### Scripture: [[Church/Bible Study Kit/Scripture (ESV)/44 - Acts/Acts-10#v1\|Acts 10:1-48]] 
 1 At Caesarea there was a man named Cornelius, a centurion of what was known as the Italian Cohort, 
