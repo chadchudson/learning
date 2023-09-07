@@ -5,6 +5,8 @@
 ![rw-book-cover](https://wsrv.nl/?url=https%3A%2F%2Fdeow9bq0xqvbj.cloudfront.net%2Fimage-logo%2F772677%2FAPQC-Podcast_1400x1400_gqizmt.jpg&w=100&h=100)
 URL: https://share.snipd.com/episode/50f85acb-483d-47d4-a365-2f5b27ba6466
 
+[Chad Hudson's AI podcast notes from Making Change Management Mindful (Part 1): Leading Change and Preventing Fatigue](https://share.snipd.com/episode-takeaways/300a7265-b0ff-4585-8971-d22710b6427b)
+
 > Training and Sustaining Change: Considerations for Different Audiences and Community Support
 > Key takeaways:
 > - Large scale changes may require multiple versions of training for different audiences
