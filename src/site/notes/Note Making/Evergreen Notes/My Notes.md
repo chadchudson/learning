@@ -24,7 +24,7 @@ What kinds of topics, you may be wondering, or perhaps not, but I’m going to t
 - [[Datacor/NIST CSF/Policies/Information Security\|Information Security]] 
 - [[Privacy\|Privacy]]
 - [[Technology\|Technology]]
-- [[Artificial Intelligence\|Artificial Intelligence]]
+- [[Note Making/Evergreen Notes/Artificial Intelligence\|Artificial Intelligence]]
 - [[What I’m Currently Reading or Learning\|What I’m Currently Reading or Learning]]
 - [[Thinking\|Thinking]]
 - [[Note Making/Evergreen Notes/Writing\|Writing]]
