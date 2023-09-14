@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/resources/readwise/podcasts/best-of-using-skills-from-improv-to-master-your-in-the-moment-communication/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/resources/readwise/podcasts/best-of-using-skills-from-improv-to-master-your-in-the-moment-communication/","tags":["podcasts","til"],"created":"","updated":""}
 ---
 
 ![rw-book-cover](https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F43%2F9e%2Ffa%2Fac%2F439efaac-e3ab-41e7-96d0-f5008d9d1c19%2F6dc4083e1132aa2d0ad38c5abf1d5dcbcd038748a670f201b25b7ddf52075f064cd4dfb19c166444bff8ebb258838b16ef860b75f5a419e2ec2925ac77003ae7.jpeg&w=100&h=100)
 URL: https://share.snipd.com/episode/af96d233-a24a-4aef-bff3-19d340ab9eda
+
+[Chad Hudson's AI podcast notes from Best Of: Using Skills From Improv to Master Your In-The-Moment Communication](https://share.snipd.com/episode-takeaways/085eda40-8adc-4fd9-abea-9d9c1d25267b) 
 
 > People's tendency to shut down or talk too much
 > Key takeaways:
@@ -85,4 +87,12 @@ URL: https://share.snipd.com/episode/af96d233-a24a-4aef-bff3-19d340ab9eda
 > Speaker 2
 > I mean, one thing that was very powerful that I learned was from you, Matt, which is to make this into a conversation rather than a performance. ([Time 0:15:10](https://share.snipd.com/snip/dd19dcd2-5b63-4fa8-8543-9b8436689d25))
     - Tags:: challenge, communication, conversation, 
+
+> Episode AI notes
+> 1. People have a tendency to either talk too much or become speechless in high-stakes scenarios. This can hinder their effectiveness in the moment.
+> 2. Getting lost can lead to valuable discoveries and problem-solving. Embracing uncertainty and discomfort is important.
+> 3. Daring to be dull can be liberating, relieving the pressure to be interesting or original. Being yourself and genuine is more powerful and creative.
+> 4. Being present-oriented and a good listener are crucial skills in improvisation and spontaneous moments. Deep expertise allows for more organic presentations.
+> 5. Offers from all directions, including the audience, are valuable opportunities for improvisers. Engaging with challenges and embracing mistakes lead to excitement and growth.
+> 6. Being present, open, and actively listening in communication can uncover valuable insights and turn objections into opportunities for growth. Approaching interactions as conversations instead of performances is key. ([Time 0:00:00](https://share.snipd.com/episode-takeaways/085eda40-8adc-4fd9-abea-9d9c1d25267b))
 
