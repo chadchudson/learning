@@ -25,7 +25,6 @@ What kinds of topics, you may be wondering, or perhaps not, but I’m going to t
 - [[Privacy\|Privacy]]
 - [[Technology\|Technology]]
 - [[Note Making/Evergreen Notes/Artificial Intelligence\|Artificial Intelligence]]
-- [[What I’m Currently Reading or Learning\|What I’m Currently Reading or Learning]]
 - [[Thinking\|Thinking]]
 - [[Note Making/Evergreen Notes/Writing\|Writing]]
 - [[Note Making/Evergreen Notes/Information I Am Consuming and Learning\|Information I Am Consuming and Learning]]
