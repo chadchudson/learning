@@ -38,4 +38,4 @@ So, in context the first is a great article about how writing improves so many t
 
 The second, is in the context of improving executive presence. The creator gives a number of helpful tips and suggestions. The danger, they say, is attempting to implement a massive number of those at once. They caution to try changing in one or two areas, then iterating through other changes, as necessary.
 
-So, the challenge becomes how do those two things fit together? My goal is typically to write 350 words on it. This one is actually pretty straight forward and easy to connect. 
+So, the challenge becomes how do those two things fit together? My goal is typically to write 350 words on it. This one is actually pretty straight forward and easy to connect. You can see the [[Note Making/Evergreen Notes/Daily Writing Challenges\|Daily Writing Challenges]].
