@@ -2,32 +2,9 @@
 {"dg-publish":true,"permalink":"/note-making/writing/2023-09-21-risk-in-executive-presence/","tags":["writing","output","dailyWritingChallenges"],"created":"","updated":""}
 ---
 
-WC:: 169
+> 3. Present your ideas with conviction, emphasizing your main points. Your credibility will increase as you learn to drive your points home.
 
-source_text:: [[Resources/Readwise/Books/Executive Presence\|Executive Presence]] 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-$<div class="markdown-embed-title">
-
-# Executive Presence
-
-</div>
-
-
-> 3. Present your ideas with conviction, emphasizing your main points. Your credibility will increase as you learn to drive your points home. ([Location 2392](https://readwise.io/to_kindle?action=open&asin=B0BDW56V2W&location=2392))
-
-</div></div>
-
-source_text:: [[Resources/Readwise/Books/Risk\|Risk]] 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> embracing a bias for action that values diverse perspectives. ([Location 267](https://readwise.io/to_kindle?action=open&asin=B08VD34V2C&location=267))
-
-</div></div>
-
-
+> embracing a bias for action that values diverse perspectives.
 
 This presents an interesting balance. One that I struggle with often. Lead with humility, yet with confidence. Then, mix in the juxtaposition of valuing diverse perspectives while confidently emphasize and drive main points home. 
 
