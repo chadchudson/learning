@@ -4,7 +4,14 @@
 
 [[Note Making/Evergreen Notes/My Notes\|Home]]
 ## This Week I’m Reading, Consuming, Learning:
+### 2023-W40
+| File                                                                                                                                  | Summary                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Resources/Readwise/Articles/Fooling Ourselves\|Fooling Ourselves]]                                                               | I struggle with imposter syndrome hard core. This is a great reminder. I constantly have mentors, friends, other executives reassure me; I need to believe in myself. I do, but when in front of other senior leaders, I often defer. “Marketing to others begins with marketing to ourselves.” Great quote.          |
+| [[Resources/Readwise/Articles/Already Unique\|Already Unique]]                                                                     | I have a huge desire to write and share knowledge and ideas, but often struggle with the thought that nothing is unique or original. Sure, I have heard the “no one has said it in your voice” argument, yet it never feels original enough. But, this paragraph, said this way, may have finally made it make sense. |
+| [[Resources/Readwise/Articles/Remarkable Leaders Are Alike in One Powerful Way\|Remarkable Leaders Are Alike in One Powerful Way]] | Authentically unique. Similar to another story from today. Uniqueness must be a common theme for the day. Be different and confident in the person that you are and the values you hold.                                                                                                                              |
 
+{ .block-language-dataview}
 ### 2023-W39
 | File                                                                                                                                 | Summary                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -15,6 +22,13 @@
 | [[Church/MWBS/Fall 2023/Week 5 - My Teaching/Week 5 Acts 4_23 - 5_42 Workbook Section\|Week 5 Acts 4_23 - 5_42 Workbook Section]] | Readwise highlights MWBS Acts 4-5                                                                                            |
 | [[Church/MWBS/Fall 2023/Week 5 - My Teaching/Week 5 Teaching\|Week 5 Teaching]]                                                   | Teaching Acts 4 and 5                                                                                                        |
 | [[Resources/Readwise/Articles/The Written Word\|The Written Word]]                                                                | Just write. There are some rules that are helpful but wow what you would like to read. Write a lot and have fun.             |
+| [[Bins/Templates/MWBS Bible Study Template\|MWBS Bible Study Template]]                                                           | Readwise highlights MWBS Acts                                                                                                |
+| [[Church/MWBS/Fall 2023/Week 6/Week 6 Acts 6 Workbook\|Week 6 Acts 6 Workbook]]                                                   | Readwise highlights MWBS Acts                                                                                                |
+| [[Church/MWBS/Fall 2023/Week 7/Week 7 Acts 8 Workbook\|Week 7 Acts 8 Workbook]]                                                   | Readwise highlights MWBS Acts                                                                                                |
+| [[Church/MWBS/Fall 2023/Week 10/Week 10 Acts 12 Workbook\|Week 10 Acts 12 Workbook]]                                              | Readwise highlights MWBS Acts                                                                                                |
+| [[Church/MWBS/Fall 2023/Week 11/Week 11 Wrap Up\|Week 11 Wrap Up]]                                                                | Readwise highlights MWBS Acts                                                                                                |
+| [[Church/MWBS/Fall 2023/Week 8/Week 8 Acts 9 Workbook\|Week 8 Acts 9 Workbook]]                                                   | Readwise highlights MWBS Acts                                                                                                |
+| [[Church/MWBS/Fall 2023/Week 9 - My Teaching/Week 9 Acts 9 - 11 Workbook\|Week 9 Acts 9 - 11 Workbook]]                           | Readwise highlights MWBS Acts                                                                                                |
 
 { .block-language-dataview}
 ### 2023-W38
