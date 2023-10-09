@@ -5,6 +5,8 @@
 ![rw-book-cover](https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F43%2F9e%2Ffa%2Fac%2F439efaac-e3ab-41e7-96d0-f5008d9d1c19%2F6dc4083e1132aa2d0ad38c5abf1d5dcbcd038748a670f201b25b7ddf52075f064cd4dfb19c166444bff8ebb258838b16ef860b75f5a419e2ec2925ac77003ae7.jpeg&w=100&h=100)
 URL: https://share.snipd.com/episode/c7199ec7-483a-4a9b-828e-73e9a9bb5908
 
+[Fetching Title#w2c8](https://share.snipd.com/episode-takeaways/f26ea5c3-4874-4dfd-b7c3-c852a0909f8c)
+
 > The Importance of Reflection and Self-Reflection in Building Trust
 > Key takeaways:
 > - Having a rubric or key available is helpful for reflection.
