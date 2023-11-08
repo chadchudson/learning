@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/note-making/writing/2023-11-07-environment-eq/","tags":["writing","output","dailyWritingChallenges"]}
 ---
 
+[[Resources/Readwise/Books/The Tipping Point\|The Tipping Point]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -11,7 +12,7 @@
 
 </div></div>
 
-
+[[Resources/Readwise/Articles/EQ Applied The Media Player\|EQ Applied The Media Player]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
