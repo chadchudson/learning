@@ -11,6 +11,6 @@
 | [[Note Making/Writing/2023-10-10 - Morning Pages\|2023-10-10 - Morning Pages]]                           | \-                                                                                         |
 | [[Note Making/Writing/2023-10-11 - Morning Pages\|2023-10-11 - Morning Pages]]                           | \-                                                                                         |
 | [[Note Making/Writing/2023-11-04 - Morning Pages\|2023-11-04 - Morning Pages]]                           | Escape and journey in the mountains                                                        |
-| [[Note Making/Writing/2023-11-07 - Environment EQ\|2023-11-07 - Environment EQ]]                         | \-                                                                                         |
+| [[Note Making/Writing/2023-11-07 - Environment EQ\|2023-11-07 - Environment EQ]]                         | Be intentional on your environment and stop to pause and think before reacting.            |
 
 { .block-language-dataview}
