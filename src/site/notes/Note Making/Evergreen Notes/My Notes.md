@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note-making/evergreen-notes/my-notes/","tags":["gardenEntry"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/note-making/evergreen-notes/my-notes/","tags":["gardenEntry"]}
 ---
 
 ## Welcome Home
@@ -17,6 +17,7 @@ This is my start. [[Learning in public\|Learning in public]], as frightening as 
 What kinds of topics, you may be wondering, or perhaps not, but I’m going to tell you anyway will be explored here?
 
 - [[Note Making/Evergreen Notes/Bible\|Bible]] reading, studying, exploration, conversations, thoughts, and of course, learning.
+	- [[Church/Bible Study/Bible Study Table of Contents\|Bible Study Table of Contents]]
 - [[Christianity\|Christianity]]
 - [[Learning\|Learning]]
 - [[Note Making/Source Notes/Business\|Business]] 
