@@ -5,6 +5,8 @@
 ![rw-book-cover](https://wsrv.nl/?url=https%3A%2F%2Fdeow9bq0xqvbj.cloudfront.net%2Fimage-logo%2F5033742%2FBetterManArtwork.jpg&w=100&h=100)
 URL: https://share.snipd.com/episode/3330271e-5434-4fc1-b3a4-2381d7e4a5b7
 
+[Fetching Title#3mcv](https://share.snipd.com/episode-takeaways/4a7530a0-0ad6-459f-97ec-61463f80b15b)
+
 > Taking Care of Body, Spirit, and Mind
 > Key takeaways:
 > - The importance of diligence in taking care of one's mind, body, and heart.
