@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/church/bible-study/bible-study-table-of-contents/","tags":["bible","church/bibleStudy"]}
 ---
 
+
 ```ActivityHistory
 Church/Bible Study
 ```
