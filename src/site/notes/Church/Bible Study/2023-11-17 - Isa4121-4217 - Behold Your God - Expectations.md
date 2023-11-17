@@ -162,7 +162,7 @@ Praise God!
 
 Sing to God with everything that you have. Shout it! 
 
-![I Thank God (feat. Maverick City Music & UPPERROOM) | TRIBL - YouTube](https://youtu.be/LM1qrx0Huds?si=5-qLCJEzNN1qS3u3)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LM1qrx0Huds?si=JOMG_kO_s3xtqNQw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 God will go to war on our behalf, in fact already has, and He will be victorious. He will secure the victory that really matters on our behalf and celebrate Him as we finish out the section [[Church/Bible Study Kit/Scripture (ESV)/23 - Isaiah/Isa-42#v14\|(14-17)]]:
 ```ad-Bible
