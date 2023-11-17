@@ -6,12 +6,6 @@
 ```ActivityHistory
 Church/Bible Study
 ```
-
-```start-multi-column  
-ID: BibleStudy
-number of columns: 2
-border: on
-```
 # Book Study
 
 ## Isaiah
@@ -22,10 +16,6 @@ border: on
 ### Writing
 [[Church/Bible Study/2023-11-17 - Isa4121-4217 - Behold Your God - Expectations\|2023-11-17 - Isa4121-4217 - Behold Your God - Expectations]]
 
---- end-column ---
-
 # Topical Study
 
---- end-column ---
 
-=== end-multi-column
