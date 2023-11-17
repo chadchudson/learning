@@ -139,10 +139,57 @@ As I was planning for 2023 at the end of 2022, for the first time, I picked a wo
 ^ image of a decorative sign I purchased from [Amazon](https://www.amazon.com/Definition-Painting-Posters-Artwork-Decoration/dp/B0B5F4N1Y8?crid=GNUF2IQJXAK5&keywords=shalom+sign&qid=1700238876&sprefix=shalom,aps,629&sr=8-16)
 
 God is imploring us, look back, see all I have done, I have proven that I am for you. I gave you good gifts, shepherded my people through tough times, I have made promises to you and shown that I will keep them. Walk with me and you can experience shalom. 
+
+God is our good, good Father who loves us and gives us good gifts. 
 ### God's Expectations of People
 
+God has expectations of us also. He also has expectations of sacrifices, but unlike the expectations of idols, the sacrifices are His own. He sacrificed his own son, and restore us to himself.
 
+His expectation of us? In response to his sacrifice, worship, and praise him, give him glory.
 
+In [[Church/Bible Study Kit/Scripture (ESV)/23 - Isaiah/Isa-42#v10\|(10-13)]], in the first of four [[Servant Songs\|Servant Songs]] (from: 42:1-9; 49:1-7; 50:4-9; 52:13-53:12, I may do a deeper dive topical study on these later), we are invited to worship Him:
+```ad-Bible
 
+10 Sing to the LORD a new song, his praise from the end of the earth, you who go down to the sea, and all that fills it, the coastlands and their inhabitants. 
+11 Let the desert and its cities lift up their voice, the villages that Kedar inhabits; let the habitants of Sela sing for joy, let them shout from the top of the mountains. 
+12 Let them give glory to the LORD, and declare his praise in the coastlands. 
+13 The LORD goes out like a mighty man, like a man of war he stirs up his zeal; he cries out, he shouts aloud, he shows himself mighty against his foes. 
+[[Isa-42#v11|]][[Isa-42#v12|]][[Isa-42#v13|]]
+
+```
+
+Praise God!
+
+Sing to God with everything that you have. Shout it! 
+
+![I Thank God (feat. Maverick City Music & UPPERROOM) | TRIBL - YouTube](https://youtu.be/LM1qrx0Huds?si=5-qLCJEzNN1qS3u3)
+
+God will go to war on our behalf, in fact already has, and He will be victorious. He will secure the victory that really matters on our behalf and celebrate Him as we finish out the section [[Church/Bible Study Kit/Scripture (ESV)/23 - Isaiah/Isa-42#v14\|(14-17)]]:
+```ad-Bible
+
+14 For a long time I have held my peace; I have kept still and restrained myself; now I will cry out like a woman in labor; I will gasp and pant. 
+15 I will lay waste mountains and hills, and dry up all their vegetation; I will turn the rivers into islands, and dry up the pools. 
+16 And I will lead the blind in a way that they do not know, in paths that they have not known I will guide them. I will turn the darkness before them into light, the rough places into level ground. These are the things I do, and I do not forsake them. 
+17 They are turned back and utterly put to shame, who trust in carved idols, who say to metal images, "You are our gods." 
+[[Isa-42#v15|]][[Isa-42#v16|]][[Isa-42#v17|]]
+
+```
+
+God has been patient, providing every chance for those who trust and worship idols. He has almost infinite grace, patience, and mercy. His desire is for all to repent and turn to Him. At some point, justice must occur or there is no justice. 
+
+God will destroy all the idols. He will remove all of the things that rob Him of His glory. 
+
+It is interesting to note the transition between 14-15 and 16:
+- He will destroy the things, but lead the guide the people. He cares for the people. He “does not forsake them.” 
+
+Some will still refuse and that is a bad spot to be in, to continually refuse God and chase idols and make them their gods. 
 ## Expectations of My Own
 
+Back to where we started. We all have our own expectations. We are looking for somebody or something to save us, restore us, deliver us from our struggles, anxieties and worries. 
+
+Thank God He took that burden upon Himself to deliver on my expectations. That He sent Jesus to do what we couldn't, to do what idols could not deliver on, to do what the world cannot. 
+- Live a perfect, obedient life to the Father without sin or blemish;
+- Be crucified, as we should have been, in our place on our behalf, to die a sinner's death yet having not sin; 
+- Defeat death, rise up from the grave where I would have been imprisoned for eternity; 
+- Ascend back to the Father's right hand, the same hand He says He will "keep us with" in 42:6;
+- Redeem and restore us to our Heavenly Father by faith.
