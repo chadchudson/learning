@@ -194,4 +194,6 @@ Thank God He took that burden upon Himself to deliver on my expectations. That H
 - Ascend back to the Father's right hand, the same hand He says He will "keep us with" in 42:6;
 - Redeem and restore us to our Heavenly Father by faith.
 
+What are you worrying or anxious about today? 
+
 ***Behold Your God!*** 
