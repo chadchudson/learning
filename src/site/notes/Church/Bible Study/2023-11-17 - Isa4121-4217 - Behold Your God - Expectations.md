@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/church/bible-study/2023-11-17-isa4121-4217-behold-your-god-expectations/","tags":["bible","church/bibleStudy","writing","output"]}
+{"dg-publish":true,"permalink":"/church/bible-study/2023-11-17-isa4121-4217-behold-your-god-expectations/","tags":["bible","church/bibleStudy","writing","output","church/beholdYourGod"]}
 ---
 
 # Expectations
 
 The sun rose again this morning, as I expected. 
 
-It's rays peaked over the horizon, filtered through the low branches of trees and penetrated the windows filling my living room with the light of a new day, just as it did yesterday. I may have noticed more intentionally this morning, but I expected the light to bring another day. 
+Its rays peaked over the horizon, filtered through the low branches of trees and penetrated the windows filling my living room with the light of a new day, just as it did yesterday. I may have noticed more intentionally this morning, but I expected the light to bring another day. 
 
 We have many things we expect, I imagine. Some perhaps without thought, much like my expectation of the sun rising daily, others with hopes, fears, optimism and delight, or frightful of outcomes. We have expectations of others, again potentially with optimism or pessimism. Maybe, sometimes the expectations of us are also accompanied by the voice of "authority" in our head, "yep, that is how you usually do things, why am I not surprised?" Or, perhaps that is only me that hears that voice all too regularly.
 
@@ -25,13 +25,13 @@ The problem, of course comes when that becomes my everything. When my identify i
 
 But, sometimes, if feels so comfortable and right, initially! Like nothing is wrong. I'm simply being intentional about where I want to go next year, right? 
 
-Then reality happens. The idols expect something of you and me. 
+Then reality happens. The idols expect something of you and of me. 
 
 They expect sacrifices by us if we don't live up to their expectations; they get angry with us. They constantly, yet in an obscure way, assault us with the twin adversaries of burden and anxiety. They scream at me to remind me that I must fill my schedule to satisfy the idol of busyness. 
 
 Seriously, if this is something that you struggle with, I want to quickly challenge you. Turn off all notifications. Silence everything!  Close all of your communication tools: email, chat, social media, turn off your phone. Sit. In complete silence for 5 minutes. But, I have…uh huh, do it.
 
-I started a mobility routine a couple of weeks ago. Side note, wow, talk about things I wish I had paid attention to when I was younger. What’s that on the floor over there? Meh, I didn’t need that vertebrae, anyway. This mobility routine requires stretches for a two-minute duration. TWO. *Two full minutes*. Of being still. Quietly, not being productive doing something. It was absolutely painful literally and figuratively. Then, after about five minutes and a few stretches, my mind cleared. I calmed down. I could feel my heart rate drop. My thoughts became focused and sharp.
+I started a mobility routine a couple of weeks ago. (Side note: wow, talk about things I wish I had paid attention to when I was younger. What’s that on the floor over there? Meh, I didn’t need that vertebrae, anyway.) This mobility routine requires stretches for a two-minute duration. TWO. *Two full minutes*. Of being still. Quietly, not being productive doing something. It was absolutely painful literally and figuratively. Then, after about five minutes and a few stretches, my mind cleared. I calmed down. I could feel my heart rate drop. My thoughts became focused and sharp.
 
 It made me reflect on [[Church/Bible Study Kit/Scripture (ESV)/45 - Romans/Rom-12#v2\|Romans 12:2 (ESV - emphasis mine)]] 
 ```ad-Bible
@@ -40,7 +40,7 @@ Do not be conformed to this world, but *be transformed by the renewal of your mi
 
 ```
 
-While idols and false gods have their own broken and perverted expectations, we are not subject to them, unless we subject ourselves to them.
+While idols and false gods have their own broken and perverted expectations, we are not subject to them, unless we subject ourselves to them. We are, however, inherently subject to God's expectations.
 ## Expectations of God
 
 God, obviously, has His own expectations. In fact, and with a bit of an ironic twist, he challenges the nations and their idols to see if they can answer His expectations.
@@ -57,13 +57,13 @@ God, obviously, has His own expectations. In fact, and with a bit of an ironic t
 
 ```
 
-God is essentially challenging the idols and gods, saying, tell me some things. Tell me about the past, present, and future like an omniscient being should be able to do. They obviously cannot. So he calls them worthless and those who worship them an abomination. 
+God is essentially challenging the idols and gods, saying, tell me some things. Tell me about the past, present, and future like an omniscient being should be able to do. They obviously cannot do so. So, he calls them worthless and those who worship them an abomination. 
 
 God, I think is showing us in this too that our idols cannot provide us comfort for our future, they haven’t made promises to us, or if they have, they cannot prove they can deliver on their promises. Our thoughts of when I reach this, or when I obtain that, then I'll be happy, which never manifest. 
 
 Can you definitively say you’ll have your job in 5 or 10 years? That your bank account will be sufficient? That begs the question, sufficient for what? Can we ensure the economy will be solid in 20 years? What about this year?
 
-God has made promises to us. He has also given definitive proof that He will keep them. God knows the end from the beginning. God declared (26) from the beginning and has shown us the end, though not the time of the end, the result in the end. And, we can have peace and comfort from that. 
+God has made promises to us. He has also given definitive proof that He will keep them. God knows the end from the beginning. God declared, in verse 26, we can take comfort in the knowledge of what He has done. 
 
 [[Church/Bible Study Kit/Scripture (ESV)/23 - Isaiah/Isa-41#v25\|Isaiah 41:25-29 (ESV)]] 
 ```ad-Bible
@@ -104,7 +104,7 @@ The Father is with him and sends him for to achieve His plan, purpose, and glory
 
 We, or people in general, often have an unfortunate view of God as being a harsh and angry God with only retribution as His focus. This section argues the exact opposite of that. Jesus will come gently for God’s people. He will come in humility with love, patience, and grace to restore God’s people to Himself. 
 
-It makes me cringe how often I fail to show up like this for my sons to restore them in their times of need. Jesus doesn’t come yelling and screaming at us, “if I have to tell you one more time…” Although, my behavior would likely dictate a response like that if I was correcting myself, thank God He is God and I am not. 
+It makes me cringe how often I fail to show up like this for my sons to restore them in their times of need, rather than with harsh correction. Jesus doesn’t scold us with, “if I have to tell you one more time…” Although, my behavior would likely elicit a response like that from me, if I was correcting myself. Thank God He is God and I am not. 
 
 Carson elaborated on this section in his sermon ([[Church/Notes from service/2023-11-12-Isaiah - Behold Your God\|my notes)]]:
 > - Who is God’s Servant?
@@ -133,7 +133,7 @@ Verses [[Church/Bible Study Kit/Scripture (ESV)/23 - Isaiah/Isa-42#v5\|(5-9)]] a
 
 God declares, I created the heavens and the earth and everything in it. I gave you breath and my spirit. I have called you and I will take you by the hand and keep you. I will release you from your prison! Glorify me, not idols who can do none of these things for you. 
 
-As I was planning for 2023 at the end of 2022, for the first time, I picked a word theme for the year. The word I selected is *shalom*, which means:
+As 2022 was coming to a close, I began planning for 2023. For the first time, I picked a word theme for the year. The word I selected is *shalom*, which means:
 
 ![shalom.jpeg|600](/img/user/Bins/shalom.jpeg)
 ^ image of a decorative sign I purchased from [Amazon](https://www.amazon.com/Definition-Painting-Posters-Artwork-Decoration/dp/B0B5F4N1Y8?crid=GNUF2IQJXAK5&keywords=shalom+sign&qid=1700238876&sprefix=shalom,aps,629&sr=8-16)
@@ -143,7 +143,7 @@ God is imploring us, look back, see all I have done, I have proven that I am for
 God is our good, good Father who loves us and gives us good gifts. 
 ### God's Expectations of People
 
-God has expectations of us also. He also has expectations of sacrifices, but unlike the expectations of idols, the sacrifices are His own. He sacrificed his own son, and restore us to himself.
+God has expectations of us also. He also has expectations of sacrifices, but unlike the expectation of sacrifices from the idols, the sacrifices are His own. He sacrificed his own son, and restore us to himself.
 
 His expectation of us? In response to his sacrifice, worship, and praise him, give him glory.
 
@@ -175,7 +175,7 @@ God will go to war on our behalf, in fact already has, and He will be victorious
 
 ```
 
-God has been patient, providing every chance for those who trust and worship idols. He has almost infinite grace, patience, and mercy. His desire is for all to repent and turn to Him. At some point, justice must occur or there is no justice. 
+God has been patient, providing every chance for those who trust and worship idols to come back to Him. He has almost infinite grace, patience, and mercy. His desire is for all to repent and turn to Him. However, at some point, justice must prevail; or there is no justice. 
 
 God will destroy all the idols. He will remove all of the things that rob Him of His glory. 
 
