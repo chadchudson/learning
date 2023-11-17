@@ -6,9 +6,9 @@
 
 The sun rose again this morning, as I expected. 
 
-Its rays peaked over the horizon, filtered through the low branches of trees and penetrated the windows filling my living room with the light of a new day, just as it did yesterday. I may have been more intentional about noticing it this morning, but generally, I expect the sun to bring another day each morning. 
+Its rays peaked over the horizon, filtered through the low branches of trees, and penetrated the windows filling my living room with the light of a new day, just as it did yesterday. I may have been more intentional about noticing it this morning, but generally, I expect the sun to bring another day each morning. 
 
-We have many things we expect, I imagine. Some perhaps without thought, much like my expectation of the sun rising daily, others with hopes, fears, optimism and delight, or frightful of outcomes. We have expectations of others, again, potentially with optimism or pessimism. Maybe, expectations of us are also accompanied by the voice of "authority" in our head, "yep, that is how you usually do things, why am I not surprised?" Or, perhaps that is only me that hears that voice all too regularly.
+We have many things we expect, I imagine. Some perhaps without thought, much like my expectation of the sun rising daily, others with hopes, fears, optimism and delight, or frightful of outcomes. We have expectations of others, again, potentially with optimism or pessimism. Maybe, expectations of us are also accompanied by the voice of "authority" in our head, "Yep, that is how you usually do things, why am I not surprised?" Or, perhaps that is only me who hears voice all too regularly.
 
 In my study of Isaiah 41:21 - 42:17 this week, I noticed a few different expectations I thought I share with you.
 ## Expectations of Idols
@@ -18,18 +18,18 @@ Toby Mac, in his song *[Lose My Soul](https://genius.com/Tobymac-lose-my-soul-af
 
 Idols are pervasive in our environment, in our culture, almost to the point of being invisible or normalized. It is relatively easy to trip and fall into the initial comforts of an idol. Or, accidentally fall into line with others to chase seemingly important goals and dreams. 
 
-Actually, the majority of the time, there is nothing wrong with setting goals, planning, or binge-watching the latest pop-culture drama. Annually, I take a couple of days to reflect on the previous year and set objectives, goals, and plan for the upcoming year. Not in a ephemeral, this-will-be-vapor-by-February kind of New Year's resolution, but in an intentional and thoughtful exploration of what I'd like to accomplish over the next year personally and professionally. 
+Actually, the majority of the time, there is nothing wrong with setting goals, planning, or binge-watching the latest pop-culture drama. Annually, I take a couple of days to reflect on the previous year and set objectives, goals, and plan for the upcoming year. Not in an ephemeral, this-will-be-vapor-by-February kind of New Year's resolution, but in an intentional and thoughtful exploration of what I'd like to accomplish over the next year personally and professionally. 
 
-The problem, of course comes when that becomes my everything. When my identify is driven by that. When my plans become my god, rather than aligning to God's plans. As Carson said in the sermon for this section of scripture last Sunday:
+The problem, of course, comes when that becomes my everything. When my identity is driven by that. When my plans become my god, rather than aligning with God's plans. As Carson said in the sermon for this section of scripture last Sunday:
 > Anything we serve or trust in above God. When we serve creation instead of the Creator. That is our idol.
 
-But, sometimes, if feels so comfortable and right, initially! Like nothing is wrong. I'm simply being intentional about where I want to go next year, right? 
+But, sometimes, it feels so comfortable and right, initially! Like nothing is wrong. I'm simply being intentional about where I want to go next year, right? 
 
 Then reality happens. The idols expect something of you and of me. 
 
-They expect sacrifices by us if we don't live up to their expectations; they get angry with us. They constantly, yet in an obscure way, assault us with the twin adversaries of burden and anxiety. They scream at me to remind me that I must fill my schedule to satisfy the idol of busyness. 
+They expect sacrifices from us if we don't live up to their expectations; they get angry with us. They constantly, yet in an obscure way, assault us with the twin adversaries of burden and anxiety. They scream at me to remind me that I must fill my schedule to satisfy the idol of busyness. 
 
-Seriously, if this is something that you struggle with, I want to quickly challenge you. Turn off all notifications. Silence everything!  Close all of your communication tools: email, chat, social media, turn off your phone. Sit. In complete silence for 5 minutes. But, I have…uh huh, do it.
+Seriously, if this is something that you struggle with, I want to quickly challenge you. Turn off all notifications. Silence everything!  Close all of your communication tools: email, chat, social media, and turn off your phone. Sit. In complete silence for 5 minutes. But, I have…uh huh, do it.
 
 I started a mobility routine a couple of weeks ago. (Side note: wow, talk about things I wish I had paid attention to when I was younger. What’s that on the floor over there? Meh, I didn’t need that vertebrae, anyway.) This mobility routine requires stretches for a two-minute duration. TWO. *Two full minutes*. Of being still. Quietly, not being productive doing something. It was absolutely painful literally and figuratively. Then, after about five minutes and a few stretches, my mind cleared. I calmed down. I could feel my heart rate drop. My thoughts became focused and sharp.
 
@@ -104,7 +104,7 @@ The Father is with him and sends him for to achieve His plan, purpose, and glory
 
 We, or people in general, often have an unfortunate view of God as being a harsh and angry God with only retribution as His focus. This section argues the exact opposite of that. Jesus will come gently for God’s people. He will come in humility with love, patience, and grace to restore God’s people to Himself. 
 
-It makes me cringe how often I fail to show up like this for my sons to restore them in their times of need, rather than with harsh correction. Jesus doesn’t scold us with, “if I have to tell you one more time…” Although, my behavior would likely elicit a response like that from me, if I was correcting myself. Thank God He is God and I am not. 
+It makes me cringe how often I fail to show up like this for my sons to restore them in their times of need, rather than with harsh correction. Jesus doesn’t scold us with, “If I have to tell you one more time…” Although, my behavior would likely elicit a response like that from me if I was correcting myself. Thank God He is God and I am not. 
 
 Carson elaborated on this section in his sermon ([[Church/Notes from service/2023-11-12-Isaiah - Behold Your God\|my notes)]]:
 > - Who is God’s Servant?
@@ -131,19 +131,19 @@ Verses [[Church/Bible Study Kit/Scripture (ESV)/23 - Isaiah/Isa-42#v5\|(5-9)]] a
 
 ```
 
-God declares, I created the heavens and the earth and everything in it. I gave you breath and my spirit. I have called you and I will take you by the hand and keep you. I will release you from your prison! Glorify me, not idols who can do none of these things for you. 
+God declares that He created the heavens and the earth and everything in it. I gave you breath and my spirit. I have called you and I will take you by the hand and keep you. I will release you from your prison! Glorify me, not idols who can do none of these things for you. 
 
 As 2022 was coming to a close, I began planning for 2023. For the first time, I picked a word theme for the year. The word I selected is *shalom*, which means:
 
 ![shalom.jpeg|600](/img/user/Bins/shalom.jpeg)
 ^ image of a decorative sign I purchased from [Amazon](https://www.amazon.com/Definition-Painting-Posters-Artwork-Decoration/dp/B0B5F4N1Y8?crid=GNUF2IQJXAK5&keywords=shalom+sign&qid=1700238876&sprefix=shalom,aps,629&sr=8-16)
 
-God is imploring us, look back, see all I have done, I have proven that I am for you. I gave you good gifts, shepherded my people through tough times, I have made promises to you and shown that I will keep them. Walk with me and you can experience shalom. 
+God is imploring us to look back and see all He has done, all that He has proven, that He is for us. God gave us good gifts and shepherded His people through tough times, He has made promises to us and shown that He will keep them. Walk with God and you can experience shalom. 
 
 God is our good, good Father who loves us and gives us good gifts. 
 ### God's Expectations of People
 
-God has expectations of us also. He also has expectations of sacrifices, but unlike the expectation of sacrifices from the idols, the sacrifices are His own. He sacrificed his own son, and restore us to himself.
+God has expectations of us also. He also has expectations of sacrifices, but unlike the expectation of sacrifices from the idols, the sacrifices are His own. He sacrificed his own son, and will restore us to himself.
 
 His expectation of us? In response to his sacrifice, worship, and praise him, give him glory.
 
@@ -185,7 +185,7 @@ It is interesting to note the transition between 14-15 and 16:
 Some will still refuse and that is a bad spot to be in, to continually refuse God and chase idols and make them their gods. 
 ## Expectations of My Own
 
-Back to where we started. We all have our own expectations. We are looking for somebody or something to save us, restore us, deliver us from our struggles, anxieties and worries. 
+Back to where we started. We all have our own expectations. We are looking for somebody or something to save us, restore us, and deliver us from our struggles, anxieties, and worries. 
 
 Thank God He took that burden upon Himself to deliver on my expectations. That He sent Jesus to do what we couldn't, to do what idols could not deliver on, to do what the world cannot. 
 - Live a perfect, obedient life to the Father without sin or blemish;
