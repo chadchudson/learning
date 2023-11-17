@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/church/bible-study/2023-11-17-isa4121-4217-behold-your-god-expectations/","tags":["bible","church/bibleStudy"]}
+{"dg-publish":true,"permalink":"/church/bible-study/2023-11-17-isa4121-4217-behold-your-god-expectations/","tags":["bible","church/bibleStudy","writing","output"]}
 ---
 
 # Expectations
@@ -193,3 +193,5 @@ Thank God He took that burden upon Himself to deliver on my expectations. That H
 - Defeat death, rise up from the grave where I would have been imprisoned for eternity; 
 - Ascend back to the Father's right hand, the same hand He says He will "keep us with" in 42:6;
 - Redeem and restore us to our Heavenly Father by faith.
+
+***Behold Your God!*** 
