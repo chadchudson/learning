@@ -6,7 +6,7 @@
 
 The sun rose again this morning, as I expected. 
 
-Its rays peaked over the horizon, filtered through the low branches of trees and penetrated the windows filling my living room with the light of a new day, just as it did yesterday. I may have noticed more intentionally this morning, but I expected the light to bring another day. 
+Its rays peaked over the horizon, filtered through the low branches of trees and penetrated the windows filling my living room with the light of a new day, just as it did yesterday. I may have been more intentional about noticing it this morning, but generally, I expect the sun to bring another day each morning. 
 
 We have many things we expect, I imagine. Some perhaps without thought, much like my expectation of the sun rising daily, others with hopes, fears, optimism and delight, or frightful of outcomes. We have expectations of others, again potentially with optimism or pessimism. Maybe, sometimes the expectations of us are also accompanied by the voice of "authority" in our head, "yep, that is how you usually do things, why am I not surprised?" Or, perhaps that is only me that hears that voice all too regularly.
 
