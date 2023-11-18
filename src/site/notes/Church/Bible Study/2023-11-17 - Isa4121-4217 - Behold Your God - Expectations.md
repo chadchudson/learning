@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/church/bible-study/2023-11-17-isa4121-4217-behold-your-god-expectations/","tags":["bible","church/bibleStudy","writing","output","church/beholdYourGod"]}
 ---
 
+![Isa42.jpg](/img/user/Bins/Banners/Isa42.jpg)
 # Expectations
 
 The sun rose again this morning, as I expected. 
@@ -197,3 +198,4 @@ Thank God He took that burden upon Himself to deliver on my expectations. That H
 What are you worrying or anxious about today? 
 
 ***Behold Your God!*** 
+
