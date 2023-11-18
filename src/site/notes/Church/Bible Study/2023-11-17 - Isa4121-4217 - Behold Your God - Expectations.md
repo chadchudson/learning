@@ -147,7 +147,7 @@ God has expectations of us also. He also has expectations of sacrifices, but unl
 
 His expectation of us? In response to his sacrifice, worship, and praise him, give him glory.
 
-In [[Church/Bible Study Kit/Scripture (ESV)/23 - Isaiah/Isa-42#v10\|(10-13)]], in the first of four [[Servant Songs\|Servant Songs]] (from: 42:1-9; 49:1-7; 50:4-9; 52:13-53:12, I may do a deeper dive topical study on these later), we are invited to worship Him:
+In [[Church/Bible Study Kit/Scripture (ESV)/23 - Isaiah/Isa-42#v10\|(10-13)]], in the first of [[Four Servant Songs\|Four Servant Songs]] (from: 42:1-9; 49:1-7; 50:4-9; 52:13-53:12, I may do a deeper dive topical study on these later), we are invited to worship Him:
 ```ad-Bible
 
 10 Sing to the LORD a new song, his praise from the end of the earth, you who go down to the sea, and all that fills it, the coastlands and their inhabitants. 
@@ -189,7 +189,7 @@ Back to where we started. We all have our own expectations. We are looking for s
 
 Thank God He took that burden upon Himself to deliver on my expectations. That He sent Jesus to do what we couldn't, to do what idols could not deliver on, to do what the world cannot. 
 - Live a perfect, obedient life to the Father without sin or blemish;
-- Be crucified, as we should have been, in our place on our behalf, to die a sinner's death yet having not sin; 
+- Be crucified, as we should have been, in our place on our behalf, to die a sinner's death yet having not sinned; 
 - Defeat death, rise up from the grave where I would have been imprisoned for eternity; 
 - Ascend back to the Father's right hand, the same hand He says He will "keep us with" in 42:6;
 - Redeem and restore us to our Heavenly Father by faith.
