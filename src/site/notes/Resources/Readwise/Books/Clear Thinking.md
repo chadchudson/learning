@@ -596,3 +596,141 @@ Shane’s point is kind versus nice. Kind people will give tough feedback. Nice 
 > Follow up: ([Location 2432](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2432))
 
 #### Experts vs. Imitators
+> safeguard: Take time to distinguish real experts from imitators. Not everyone who claims to be an expert is. Take the time to know the difference. ([Location 2442](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2442))
+
+> Experts are usually enthusiastic about their area of expertise. That’s why they’re good at it: they spend even their spare time mastering and refining their knowledge and skills, and it shows. Imitators are less concerned with being great and more concerned with looking great. ([Location 2448](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2448))
+
+> Imitators can’t answer questions at a deeper level. ([Location 2451](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2451))
+
+> Imitators can’t adapt their vocabulary. ([Location 2455](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2455))
+
+> Imitators get frustrated when you say you don’t understand. ([Location 2457](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2457))
+
+> Experts can tell you all the ways they’ve failed. ([Location 2461](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2461))
+
+> Imitators don’t know the limits of their expertise. ([Location 2463](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2463))
+
+### CHAPTER 4.4 Do it!
+> Consequentiality and Reversibility ([Location 2484](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2484))
+
+> Consequential decisions affect the things that matter most: whom you marry, where you live, which business you launch. ([Location 2485](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2485))
+
+> Reversible decisions can be undone by a later course of action. ([Location 2487](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2487))
+
+> Three Principles for Action ([Location 2504](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2504))
+
+> the asap principle: If the cost to undo the decision is low, make it as soon as possible. ([Location 2506](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2506))
+
+> the alap principle: If the cost to undo a decision is high, make it as late as possible. ([Location 2512](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2512))
+
+> Remember to factor the cost of analysis into your decisions. ([Location 2513](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2513))
+
+> When you go too fast, you miss crucial information, make assumptions, overlook the basics, rush to judgment, and often solve the wrong problem. When things are hectic, however—even when speed matters—you need to slow down, just a little. ([Location 2515](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2515))
+
+> the stop, flop, know principle: Stop gathering more information and execute your decision when either you Stop gathering useful information, you First Lose an OPportunity (FLOP), or you come to Know something that makes it evident what option you should choose. ([Location 2557](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2557))
+
+> In the final round, they were still only 17 percent accurate. The thirty-five additional pieces of information did, however, move their confidence level to 34 percent. All of the extra information made them no more accurate but a lot more confident. ([Location 2572](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2572))
+
+> Confidence increases faster than accuracy. “The trouble with too much information,” Robinson told me, “is you can’t reason with it.” It only feeds confirmation bias. We ignore additional information that doesn’t agree with our assessment, and gain confidence from additional information that does. ([Location 2574](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2574))
+
+> limit of useful information you can gather: You are able to argue credibly for and against the options you’re considering from all angles. You’re stretching for insight by asking people for advice who are more than one step removed from the problem or who don’t have experience solving problems of this sort. You feel like you need to learn more, but you’ve stopped learning new things, and are instead in a constant loop reviewing the same information (or same arguments) over and over. ([Location 2577](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2577))
+
+### CHAPTER 4.5 Margin of Safety
+> You don’t always need to have the ultimate solution to make progress. If it remains unclear which path is best, often the next best step is just to eliminate paths that lead to outcomes you don’t want. Avoiding the worst outcomes maintains optionality and keeps you moving forward. ([Location 2599](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2599))
+
+> tip: The margin of safety is often sufficient when it can absorb double the worst-case scenario. So the baseline for a margin of safety is one that could withstand twice the amount of problems that would cause a crisis, or maintain twice the amount of resources needed to rebuild after a crisis. ([Location 2665](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2665))
+
+#### Bullets before Cannonballs
+> Performing small, low-risk experiments on multiple options—in other words, shooting bullets and calibrating—keeps your options open before you commit the bulk of your resources to shooting a cannonball. Thinking about medical school? Shadow a doctor or a resident for a day. Take the MCAT and see what you score, or apply to colleges and see where you’re accepted. Thinking about a new career? Try doing it freelance a few nights per week first. Thinking about launching a new product? See if people are willing to pay for it before you build it. ([Location 2713](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2713))
+
+#### Live with a Decision before Announcing It
+> However, it turned out that sleeping on decisions by itself wasn’t enough. I added another element to the rule: before going to bed, I would write a note to myself explaining why I’d made the decision. Doing so allowed me to make the invisible visible. When I woke up in the morning, I’d read the note. More often than I’d like to admit, my best thinking from the day before fell short upon inspection in the harsh light of the morning. Sometimes I’d realize I really didn’t understand the problem as well as I thought I did. Other times, it just didn’t feel right anymore. And I’ve come to learn that this feeling is important to explore. ([Location 2733](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2733))
+
+#### The Fail-Safe Principle
+> Climbing Everest is a dramatic example of why it’s important to implement execution fail-safes to ensure your decision gets executed as planned. Is it finally time to bail when you’re running out of oxygen? Should you stay the course even though your other equipment is on its last legs? Execution fail-safes leverage your thinking when you’re at your best to protect you against the defaults when you’re at your worst. ([Location 2762](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2762))
+
+#### Three Kinds of Execution Fail-Safes
+> There are three kinds of execution fail-safes you should know: setting trip wires, empowering others to make decisions, and tying your hands. ([Location 2777](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2777))
+
+> fail-safe: Set up trip wires to determine in advance what you’ll do when you hit a specific quantifiable time, amount, or circumstance. ([Location 2779](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2779))
+
+> Many projects fail, and many decisions get challenging right at this point—when people see neither negative signs nor the positive ones they expected. When that happens, it’s time to re-evaluate. Ask yourself, “Is the most important thing still the most important thing? Was I wrong? What will it take to reach my goals now that I’ve moved further in time but not in progress?” ([Location 2791](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2791))
+
+> fail-safe: Use commander’s intent to empower others to act and make decisions without you. ([Location 2797](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2797))
+
+> Commander’s intent empowers each person on a team to initiate and improvise as they’re executing the plan. It stops you from being the bottleneck, and it enables the team to keep each other accountable to the goal without your presence. ([Location 2804](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2804))
+
+> Commander’s intent has four components: formulate, communicate, interpret, and implement. ([Location 2806](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2806))
+
+> Before you begin executing a decision, just so there’s no confusion as you move forward, ask yourself: Who needs to know my goals and the outcomes I’m working toward? Do they know what the most important objective is? Do they know the positive and negative signs to look for and what trip wires are attached to them? ([Location 2811](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2811))
+
+> Good leaders determine what needs to get done and set the parameters for getting there. They don’t care whether something gets done differently from how they themselves would’ve done it. As long as it advances to the objective within the limits they’ve set, they’re satisfied. ([Location 2819](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2819))
+
+> fail-safe: Tie your hands to keep your execution on track. ([Location 2824](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2824))
+
+### CHAPTER 4.6 Learn from Your Decisions
+> If you’re a knowledge worker, you produce decisions.[1] That’s your job. The quality of your decisions eventually determines how far you go and how fast you get there. If you learn to make great decisions consistently, you’ll quickly move past the people whose decisions are merely good. ([Location 2837](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2837))
+
+> Self-serving bias gets in the way of learning from your decisions and improving your process. Our ego default wants us to think that we’re smarter than we are and tells us that we work harder and know more than we actually do. The overconfidence that the ego demon inspires prevents us from examining our decisions with a critical eye. It keeps us from distinguishing skill from luck—what’s in our control from what isn’t. If you get trapped by the demon, you’ll never learn from your decisions and never get better at making them in the future. ([Location 2853](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2853))
+
+> the process principle: When you evaluate a decision, focus on the process you used to make the decision and not the outcome. ([Location 2859](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2859))
+
+> Many people assume that good decisions get good outcomes and bad ones don’t. But that’s not true. The quality of a single decision isn’t determined by the quality of the outcome. ([Location 2884](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2884))
+
+> A bad process can never produce a good decision. Sure, it might result in a good outcome, but that’s different from making a good decision. ([Location 2926](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2926))
+
+> the transparency principle: Make your decision-making process as visible and open to scrutiny as possible. ([Location 2934](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2934))
+
+> safeguard: Keep a record of your thoughts at the time you make the decision. Don’t rely on your memory after the fact. Trying to recall what you knew and thought at the time you made the decision is a fool’s game. ([Location 2948](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2948))
+
+> Writing down your thoughts offers several benefits. One benefit is that a written record provides information about your thought process at the time you made the decision. ([Location 2954](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2954))
+
+> A second benefit of recording your thoughts is that in the process of writing something, you often realize you don’t really understand it as well as you thought you did. ([Location 2958](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2958))
+
+> A third benefit to writing down your thoughts is that it allows other people to see your thinking, which is mostly invisible. ([Location 2960](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2960))
+
+> A final benefit to writing down your thoughts is that it gives other people an opportunity to learn from your perspective. ([Location 2964](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2964))
+
+### PART 5 WANTING WHAT MATTERS
+> GOOD DECISION-MAKING COMES down to two things: 1. Knowing how to get what you want 2. Knowing what’s worth wanting ([Location 2978](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2978))
+
+> The first point is about making effective decisions. The second is about making good ones. You might think they’re the same, but they are not. ([Location 2981](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=2981))
+
+### CHAPTER 5.1 Dickens’s Hidden Lesson
+> life lived according to someone else’s scoreboard is not a life worth living. ([Location 3016](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=3016))
+
+> he’d been trying to win the wrong game. ([Location 3057](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=3057))
+
+> phronesis—the wisdom of knowing how to order your life to achieve the best results. ([Location 3068](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=3068))
+
+### CHAPTER 5.2 The Happiness Experts
+> Time is the ultimate currency of life. The implications of managing the short time we have on earth are like those of managing any scarce resource: you have to use it wisely—in a way that prioritizes what’s most important. ([Location 3095](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=3095))
+
+> Say things now to people you care about—whether it’s expressing gratitude, asking forgiveness, or getting information. Spend the maximum amount of time with your children. Savor daily pleasures instead of waiting for “big-ticket items” to make you happy. Work in a job you love. Choose your mate carefully; don’t just rush in. ([Location 3098](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=3098))
+
+> None said that to be happy you should work as hard as you can to get money. None said it was important to be as wealthy as the people around you. None said you should choose your career based on its earning potential. None said they regretted not getting even with someone who slighted them. ([Location 3102](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=3102))
+
+> And the biggest regret people had? Worrying about things that never happened: “Worrying wastes your life,” one respondent said. ([Location 3106](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=3106))
+
+##### Note:: Interesting the Bible says do not worry 365 times.
+
+### CHAPTER 5.3 Memento Mori
+> Jobs had a daily ritual. Every morning he would look in the mirror and ask himself, “If today were the last day of my life, would I want to do what I am about to do today?”[3] ([Location 3147](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=3147))
+
+> What we think of as defining moments, like promotions or a new house, matter less to life satisfaction than the accumulation of tiny moments that didn’t seem to matter at the time. In the end, everyday moments matter more than big prizes. Tiny delights over big bright lights. ([Location 3181](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=3181))
+
+### CHAPTER 5.4 Life Lessons from Death
+> For instance, after doing this thought experiment, I’ve started eating better, sleeping more, and exercising regularly. Why? Because in order to live to ninety and do all the things I aspire to, I need to be healthy. Likewise, after doing this thought experiment, it’s clear that I want to be a more present father. Hence, I’ve cut back on my phone use around the kids and created routines that nudge connecting with them: every day when they come home, we sit on the couch and talk about the school day. No doubt these are small changes, but they have a big impact on me and the people that matter. ([Location 3212](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=3212))
+
+#### Good Judgment and the Good Life
+> If you want to develop good judgment, start by asking two questions: “What do I want in life? And is what I want actually worth wanting?” Until you’ve answered the second question, all the decision-making advice in the world isn’t going to do you much good. There’s little profit in knowing how to get the things you want if those things won’t make you happy. It doesn’t matter how successful you become at acquiring power, fame, or money if at the end of it all you want a do-over. ([Location 3236](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=3236))
+
+##### Note:: Don’t win the wrong game.
+
+### CONCLUSION The Value of Clear Thinking
+> Good judgment is expensive, but poor judgment will cost you a fortune. ([Location 3243](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=3243))
+
+> Improving your judgment, it turns out, is less about accumulating tools to enhance your rationality and more about implementing safeguards that make the desired path the path of least resistance. ([Location 3258](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=3258))
+
+> Managing your defaults requires more than willpower. Defaults operate at our subconscious level, so overriding them requires harnessing equally powerful forces that pull your subconscious in the right direction: habits, rules, and environment. Overriding your defaults requires implementing safeguards that render the invisible visible and that prevent you from acting too soon. And it requires cultivating habits of mind—accountability, knowledge, discipline, and confidence—that put you on the right track and keep you there. ([Location 3261](https://readwise.io/to_kindle?action=open&asin=B0BRMPJ8DR&location=3261))
+
